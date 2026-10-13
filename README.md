@@ -45,8 +45,8 @@ We implemented and compared multiple models:
 | Model              | Test Accuracy |
 |--------------------|---------------|
 | SimpleRNN          | ~82%          |
-| LSTM               | ~87%          |
-| Bidirectional LSTM | ~89%          |
+| LSTM               | ~84%          |
+| Bidirectional LSTM | ~83%          |
 
 - Accuracy/Loss curves plotted for training and validation.  
 - Confusion Matrix used to analyze misclassified reviews.  
